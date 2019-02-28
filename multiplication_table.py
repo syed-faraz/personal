@@ -1,5 +1,5 @@
 def multiply():
-	num = input("\nEnter the number to generate multiplication table \n")
+	num = input("\nEnter a number to generate its multiplication table \n")
 	print("\n")
 	for i in range(1,11):
 		print (num*i)
